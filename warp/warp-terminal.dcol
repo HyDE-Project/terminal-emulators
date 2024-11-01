@@ -3,8 +3,8 @@ ${HOME}/.local/share/warp-terminal/themes/hyde/hyde.yaml
 # Visit https://github.com/HyDE-Project/terminals-hyde for more info
 # Template by: HyDE Project
 
-accent: "#<wallbash_pry1>"
-background: "#<wallbash_pry2>"
+accent: "#<wallbash_pry2>"
+background: "#<wallbash_pry1>"
 details: darker
 foreground: "#<wallbash_txt1>"
 terminal_colors:

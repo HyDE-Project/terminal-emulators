@@ -1,0 +1,20 @@
+name = "kitty-wallbash"
+owner = "The HyDE Project"
+description = "A wallbash implementation for the Kitty terminal emulator"
+source = "git+https://github.com/HyDE-Project/terminal-emulators.git"
+license = "GPL-3.0"
+
+
+
+
+[version]
+major = 0
+minor = 1
+patch = 0
+
+
+[dependencies]
+kitty = "*"
+
+
+
