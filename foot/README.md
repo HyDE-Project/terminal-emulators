@@ -4,8 +4,8 @@
 
 To add templates, follow these steps:
 
-1. Copy the file `/foot.dcol` to either `~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde/wallbash/Wall-Dcol`.
-2. Run `Hyde reload` to generate the file.
+1. Copy the file `/foot.dcol` to either `~/.config/hyde/wallbash/always` or `~/.config/hyde/wallbash/theme`.
+2. Run `hyde-shell reload` to generate the file.
 
 **Note:** Ensure you have the directory `~/.config/foot/`. If it does not exist, create it with the following command:
 
@@ -28,7 +28,6 @@ include=~/.config/foot/theme.ini
 ```
 
 **NOTE** [Foot as emulator do not support reloading the colors. ](https://codeberg.org/dnkl/foot/issues/708) So restarting the whole foot session is needed.
-
 
 ## Read More About Foot
 

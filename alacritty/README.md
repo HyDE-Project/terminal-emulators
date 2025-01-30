@@ -4,8 +4,8 @@
 
 To add templates, follow these steps:
 
-1. Copy the file `/alacritty.dcol` to either `~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde/wallbash/Wall-Dcol`.
-2. Run `Hyde reload` to generate the file.
+1. Copy the file `/alacritty.dcol` to either `~/.config/hyde/wallbash/always` or `~/.config/hyde/wallbash/theme`.
+2. Run `hyde-shell reload` to generate the file.
 
 **Note:** Ensure you have the directory `~/.config/alacritty/`. If it does not exist, create it with the following command:
 
@@ -13,7 +13,7 @@ To add templates, follow these steps:
 mkdir ~/.config/alacritty/
 ```
 
-The destination directory for the template will be `~/.config/alacritty/theme.toml`.
+The destination file for the template will be `~/.config/alacritty/theme.toml`.
 
 ## Applying the Theme
 

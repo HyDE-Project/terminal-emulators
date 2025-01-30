@@ -4,10 +4,10 @@
 
 To add templates, follow these steps:
 
-1. Copy the file `/wezterm.dcol` to either `~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde/wallbash/Wall-Dcol`.
-2. Run `Hyde reload` to generate the file.
+1. Copy the file `/wezterm.dcol` to either `~/.config/hyde/wallbash/always` or `~/.config/hyde/wallbash/theme`.
+2. Run `hyde-shell reload` to generate the file.
 
-**NOTE** The target file's directory should exist first ` $XDG_CONFIG_HOME/wezterm/ `
+**NOTE** The target file's directory should exist first `$XDG_CONFIG_HOME/wezterm/`
 
 ## Applying and Reloading the Theme through `wezterm.lua`
 

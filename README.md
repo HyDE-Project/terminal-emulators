@@ -12,10 +12,10 @@ Wallbash templates for terminal emulators that works on HyDE.
 
 Check each directory for instructions.
 
-### Difference Between Wall-Ways and Wall-Dcol
+### Difference Between always and theme
 
-- **Wall-Ways**: This directory is always used regardless of the theme mode or wallbash mode.
-- **Wall-Dcol**: This directory attempts to find the theme template (if changing themes,in theme mode and reload_flag is on) and falls back to using the dominant color of the wallpapers if no template is available or in wallbash mode.
+- **always**: This directory is always used regardless of the theme mode or wallbash mode.
+- **theme**: This directory attempts to find the theme template (if changing themes,in theme mode and reload_flag is on) and falls back to using the dominant color of the wallpapers if no template is available or in wallbash mode.
 
 ## TODO
 

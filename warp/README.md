@@ -1,17 +1,21 @@
 # Warp Terminal
+
 ## Adding Templates
 
 To add templates, follow these steps:
-1. Copy the file `/warp-terminal.dcol` to either `~/.config/hyde/wallbash/Wall-Ways` or `~/.config/hyde/wallbash/Wall-Dcol`.
-2. Run `Hyde reload` to generate the file.
+
+1. Copy the file `/warp-terminal.dcol` to either `~/.config/hyde/wallbash/always` or `~/.config/hyde/wallbash/theme`.
+2. Run `hyde-shell reload` to generate the file.
 
 > **Note:**  
 > If it is not working, check if `${HOME}/.local/share/warp-terminal/themes/` exists.  
 > If not, run:
+>
 > ```sh
 > mkdir -p ${HOME}/.local/share/warp-terminal/themes/hyde
 > ```
-> Then rerun `Hyde reload`.
+>
+> Then rerun `hyde-shell reload`.
 
 ## Applying the Theme
 
