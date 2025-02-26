@@ -31,4 +31,3 @@ Check each directory for instructions.
 - Put better screenshots for the READEME
 - Feel free to open a PR for color corrections!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A)
