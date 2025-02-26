@@ -1,0 +1,24 @@
+${XDG_CONFIG_HOME}/ghostty/theme
+foreground = #<wallbash_txt1>
+background = #<wallbash_pry1>
+selection-foreground = #<wallbash_pry1>
+selection-background = #<wallbash_txt1>
+cursor-color = #<wallbash_pry4>
+
+
+palette = 0=#<wallbash_1xa1>
+palette = 1=#<wallbash_4xa9>
+palette = 2=#<wallbash_2xa9>
+palette = 3=#<wallbash_3xa9>
+palette = 4=#<wallbash_1xa7>
+palette = 5=#<wallbash_2xa7>
+palette = 6=#<wallbash_3xa7>
+palette = 7=#<wallbash_4xa9>
+palette = 8=#<wallbash_1xa4>
+palette = 9=#<wallbash_4xa8>
+palette = 10=#<wallbash_2xa8>
+palette = 11=#<wallbash_3xa8>
+palette = 12=#<wallbash_1xa7>
+palette = 13=#<wallbash_2xa7>
+palette = 14=#<wallbash_3xa7>
+palette = 15=#<wallbash_4xa8>

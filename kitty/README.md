@@ -9,18 +9,20 @@ To add templates, follow these steps:
 
 ## Applying the `theme.conf`
 
-To apply the theme, include the `theme.conf` file in your `kitty.conf` configuration file.
+To apply the theme, include the `kitty/hyde.conf` file in your `kitty/kitty.conf` configuration file.
 
 1. Open your `kitty.conf` file located at `~/.config/kitty/kitty.conf`.
 2. Add the following line to include the theme configuration:
 
    ```plaintext
-   include theme.conf
+   include hyde.conf
    ```
+
+   `hyde.conf` contains the default HyDE configuration including the theme.conf inclusion.
 
 ### Extra
 
-HyDE by default uses the Kitty terminal. If you want to configure it manually, place `./kitty.conf` into `~/.config/kitty/`.
+HyDE by default uses the Kitty terminal. If you want to configure it manually,edit `~/.config/kitty/kitty.conf` as you see fit.
 
 ## Sources and Further Reading
 
